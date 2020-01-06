@@ -1,1 +1,2 @@
-# platzivideo_responsive_design
+# platzivideo
+Curso de Desarrollo Web en Platzi
